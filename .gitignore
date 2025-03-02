@@ -47,3 +47,19 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore R workspace files
+.RData
+.Rhistory
+.Ruserdata
+
+# Ignore RStudio project files
+.Rproj.user/
+
+# Ignore generated simulation results
+*.RDS
+*.rda
+*.rdata
+
+# Ignore images if too large (optional)
+images/*.png

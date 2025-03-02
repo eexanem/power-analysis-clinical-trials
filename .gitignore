@@ -63,3 +63,6 @@ rsconnect/
 
 # Ignore images if too large (optional)
 images/*.png
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
